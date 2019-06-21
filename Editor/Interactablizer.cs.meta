@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d9c58491c064a7d4ea1f9e7313d6cdab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - Secondary_None: {fileID: 1446795366740208163, guid: 3f5dc5860f9599c4e8a0ae09a8bbed3c,
+      type: 3}
+  - Secondary_Scale: {fileID: 5432711012411117778, guid: f3f35848ab9018143ac0f7afbeb08d9b,
+      type: 3}
+  - Secondary_Swap: {fileID: 7915416951780248044, guid: 240fdd985e025cb459f73d2b1bb7b341,
+      type: 3}
+  - Secondary_ControlDirection: {fileID: 2651212179771087292, guid: 85b301ec581dd494d938383693b8ebea,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
