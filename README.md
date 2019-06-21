@@ -8,3 +8,5 @@ If you don´t import the .meta file, you may need to set the interactables prefa
 ![](Images/User_Manual.PNG)
 
 Keep in mind this is WIP and altough it is functional, it is expected to allow further configuration in a few days.
+
+v1: https://gfycat.com/discreteopenafricanfisheagle
